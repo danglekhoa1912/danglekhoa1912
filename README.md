@@ -14,15 +14,17 @@
       
 - 💬 Ask me about JavaScript
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 > Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-<img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg'>
-<img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
-<img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<div>
+      <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+      <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg'>
+      <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
+      <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'>
+      <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+      <img width ='32px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+      <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+</div>
 
 ###
 
